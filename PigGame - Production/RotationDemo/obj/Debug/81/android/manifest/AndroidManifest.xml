@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="RotationDemo.RotationDemo" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:targetSdkVersion="27" android:minSdkVersion="11" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="RotationDemo" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="RotationDemo" android:name="md552cd7a192d402f7207a56fc3ebcf7bc8.Activity1">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="SimpleStateActivity" android:name="md552cd7a192d402f7207a56fc3ebcf7bc8.SimpleStateActivity" />
+    <activity android:label="NonConfigInstanceActivity" android:name="md552cd7a192d402f7207a56fc3ebcf7bc8.NonConfigInstanceActivity" />
+    <activity android:configChanges="orientation" android:label="CodeLayoutActivity" android:name="md552cd7a192d402f7207a56fc3ebcf7bc8.CodeLayoutActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="RotationDemo.RotationDemo.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.RotationDemo.RotationDemo" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

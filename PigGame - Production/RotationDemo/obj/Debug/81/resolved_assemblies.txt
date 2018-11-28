@@ -1,0 +1,12 @@
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\RotationDemo.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\System.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\System.Json.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Cody Connor\Downloads\RotationDemo\RotationDemo\obj\Debug\81\android\assets\Mono.Security.dll
